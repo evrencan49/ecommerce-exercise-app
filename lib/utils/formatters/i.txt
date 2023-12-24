@@ -1,0 +1,5 @@
+date formats - helper functions(pass date to funcs)
+response
+currency formats
+phone number formats
+...

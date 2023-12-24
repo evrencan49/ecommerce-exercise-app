@@ -1,0 +1,8 @@
+everything related to device
+hiding keyboard
+set status bar color
+landscape orientation
+horizontal orientation
+set full screen
+set screen height,width
+...
